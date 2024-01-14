@@ -2,6 +2,7 @@
   "name": "bugsy-assistant",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@azure/openai": "^1.0.0-beta.10",
     "@testing-library/jest-dom": "^5.17.0",
